@@ -80,7 +80,8 @@ $(function() {
       events: true // if true, emit custom events
     });
   }
-
+  
+  // Jira_token = 'ATATT3xFfGF01VxL2Cg-x_bNSpDQ9wmkOTc9aH3-O62Q5J8n4yM2hKjxNipZnyv-_M5MES7DY_lYmu8ZekAN_uO-GLKZvmnofcl0pdKVNuzu37U0_8hgAjISH8Ga4D87mBA2BEbni1wr6211sauejR4Kj6mDNk9sihcki3uT9QmFrNZAwEcFkGY=056AB0A9'
   // add lightbox class to all image links
   $(
     "a[href$='.jpg'],a[href$='.jpeg'],a[href$='.JPG'],a[href$='.png'],a[href$='.gif'],a[href$='.webp']"
